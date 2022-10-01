@@ -1,5 +1,6 @@
 # Spotify API
 
+* [Tutorial how to set up](https://technicallytony.com/add-spotify-now-playing-to-your-github)
 * Create a [Spotify Application](https://developer.spotify.com/dashboard/applications)
 * Take note of:
     * `Client ID`
